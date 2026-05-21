@@ -5,7 +5,7 @@
   ██║      ███████ ██║  ██ ███████║ ██║  ██╗
   ╚═╝      ╚══════ ╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═╝
 
-GDI Malware made in C# 
+GDI Malware made in C# | you need .net 3.5
 Do not run it on your main machine let alone any laptop as it can lead to an unbootable 
 The GDI only varient doesnt harm your Os but a vm is advised
 The harmful varient will overwrite the MBR and disable task manager and crash the Os
