@@ -14,5 +14,5 @@ This was made for educational and entertainment purposes do not use it for any m
 (Update I changed the MBR with a new mode 13 mbr to match its blue asthetic pretty much)
 <img width="1591" height="839" alt="image" src="https://github.com/user-attachments/assets/1580a7d5-1fac-4fdd-b3b3-9391d6fe780b" />
 <img width="1585" height="839" alt="image" src="https://github.com/user-attachments/assets/aa8a525d-d00b-484e-8bfc-aa680ed99955" />
-
+<img width="639" height="398" alt="image" src="https://github.com/user-attachments/assets/f3801d90-9dc9-486a-8846-0db06bd37790" />
 
